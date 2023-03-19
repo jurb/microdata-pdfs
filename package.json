@@ -1,0 +1,17 @@
+{
+  "name": "microdata-pdfs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cyber2024/pdf-parse-fixed": "^1.2.5",
+    "async": "^3.2.4",
+    "pdf-merger-js": "^4.2.1",
+    "puppeteer": "^19.7.5"
+  }
+}
