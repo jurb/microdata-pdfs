@@ -18,7 +18,7 @@ These are 3 scripts to downloads the PDFs contained on [the CBS.nl microdata cat
 
 ## A note of caution
 
-Please check that the `querySelectorAll` selector still returns the right results before running this script.
+Please check that the `querySelectorAll` selectors still returns the right results before running this script.
 
 This script uses selectors to scrape the CBS.nl website. When the sctructure of the pages that the script refers to changes, the script will most likely break, or silently return wrong or incomplete results.
 
